@@ -1,7 +1,5 @@
 streamlit
 scikit-learn
-nltk
+nltk>=3.8
 numpy
 pandas
-pickle-mixin
-taipy

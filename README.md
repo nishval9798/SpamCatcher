@@ -1,4 +1,4 @@
-👨‍💻 Author
+👨‍💻 Author :
 Nishval Nai, Ansh Sharma
 
 # 📧 SpamCatcher – Email & SMS Spam Detection System

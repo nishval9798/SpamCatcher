@@ -29,6 +29,7 @@ The app is built using **Python**, **Scikit-learn**, **NLTK**, and **Streamlit**
 
 ## 📂 Project Structure
 spam-detection-app/
+
 ├── app.py
 
 ├── spam_detector_taipy.py
